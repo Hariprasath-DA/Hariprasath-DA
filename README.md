@@ -6,6 +6,8 @@ I turn raw data into meaningful business insights through data analysis, statist
 
 I'm focused on building practical, end-to-end analytics projects that connect data preparation and analysis with clear, evidence-based business reporting.
 
+When I'm not working with data, I enjoy gaming, music, cricket. I love the "aha!" moment when data reveals something new and useful.
+
 ## 🛠️ Technical Skills
 
 - **SQL & Data Modeling:** SQL Server, data cleaning, analytical queries, dimensional modeling, and business-ready views
