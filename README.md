@@ -1,16 +1,15 @@
 # Hi there, I'm Hariprasath 👋
 
-## Data Analyst | Business Intelligence | MS Excel · SQL Server · Python · Power BI
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[MSExcel+SQL Server+Python+PowerBI]" alt="Typing SVG" />
+  <!--  You can customize the typing text in the "lines=" section of the URL below -->
+  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=465&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;MSExcel+%7C+SQLServer+%7C+Python+%7C+PowerBI;" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/hari-prasath3/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="hariprasathhp321@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 I turn raw data into meaningful business insights through data analysis, statistical methods, data modeling, and interactive dashboards.
@@ -40,7 +39,6 @@ An end-to-end analytics project combining SQL Server, Python, and Power BI to ex
 
 [Explore the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmI4ZWE4MjEtNWVlYS00YmI5LTlmOTgtZjU4OThhMTBiNGU1IiwidCI6IjFmOTk1MmI4LWFjNjMtNDBkNC1hODBlLTRkOWVmOGJhYmNhMyJ9)
 
-*GitHub project repository coming soon.*
 
 ### 2. Brazilian E-commerce Analytics
 An exploratory analytics project using real-world e-commerce data to investigate sales and business performance patterns.
