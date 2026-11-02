@@ -19,6 +19,15 @@ I'm focused on building practical, end-to-end analytics projects that connect da
 When I'm not working with data, I enjoy gaming, music, cricket. I love the "aha!" moment when data reveals something new and useful.
 
 ## 🛠️ Technical Skills
+### 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=MSExcel,sqlserver,python,powerbi,figma" />
+</p>
+
+<hr>
 
 - **SQL & Data Modeling:** SQL Server, data cleaning, analytical queries, dimensional modeling, and business-ready views
 - **Python & Data Analysis:** Python, Pandas, NumPy, exploratory data analysis, data cleaning, and visualization
