@@ -20,7 +20,7 @@ When I'm not working with data, I enjoy gaming, music, cricket. I love the "aha!
 
 ## 🛠️ Technical Skills
 
-- **SQL & Data Modeling:** SQL Server, data cleaning, analytical queries, dimensional modeling, and business-ready views
+- **SQL & Data Modeling:** SQL Server, data cleaning, analytical queries, dimensional modeling and SQL query optimization
 - **Python & Data Analysis:** Python, Pandas, NumPy, exploratory data analysis, data cleaning, and visualization
 - **Business Intelligence:** Power BI, DAX, KPI development, interactive dashboards, and time intelligence
 - **Statistics:** Descriptive statistics, confidence intervals, hypothesis testing, effect sizes, and non-parametric analysis
