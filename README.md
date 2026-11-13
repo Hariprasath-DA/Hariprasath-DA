@@ -29,11 +29,27 @@ When I'm not working with data, I enjoy gaming, music, cricket. I love the "aha!
 ## 📊 Featured Projects
 
 ### 1. Supply Chain Intelligence Dashboard
-An end-to-end analytics project combining SQL Server, Python, and Power BI to examine business performance across multiple analytical areas.
 
-- Built a Bronze–Silver–Gold data workflow for data preparation and transformation
-- Developed business-ready SQL views and a dimensional analytical model
-- Created a five-page Power BI report covering executive performance, fulfillment, inventory, product performance, and customer analysis
+An end-to-end supply chain analytics project integrating SQL Server, Python, and Power BI to transform raw operational data into structured, business-ready insights.
+
+**Data Engineering & Preparation**
+- Established a Bronze–Silver–Gold workflow to organize raw, cleaned, and analytical data.
+- Used Python for initial data exploration, translation, cleaning, and standardization.
+- Developed SQL Server transformations and business-ready views for analytical reporting.
+
+**Data Modeling & Analysis**
+- Designed a dimensional analytical model to support sales and operational analysis.
+- Modeled inventory separately using monthly inventory snapshots.
+- Developed analytical measures to evaluate business performance across key operational areas.
+
+**Business Intelligence & Reporting**
+- Built a five-page interactive Power BI report covering:
+  - Executive Overview
+  - Order Fulfillment & Delivery Performance
+  - Inventory Management
+  - Product Performance
+  - Customer Analysis
+- Developed DAX measures, time-intelligence calculations, dynamic metric selection, and interactive visual analysis.
 
 **Tools:** SQL Server · Python · Power BI · DAX
 
@@ -41,9 +57,31 @@ An end-to-end analytics project combining SQL Server, Python, and Power BI to ex
 
 
 ### 2. Brazilian E-commerce Analytics
-An exploratory analytics project using real-world e-commerce data to investigate sales and business performance patterns.
 
-**Tools:** Python · Pandas · Data Visualization
+An end-to-end analytics project using the Brazilian Olist e-commerce dataset to investigate marketplace growth, customer behavior, product performance, seller dynamics, and delivery operations.
+
+**Sales & Market Analysis**
+- Analyzed revenue and order trends, identifying seasonal demand patterns and 135% year-over-year order growth between January–August 2017 and 2018.
+- Examined regional sales distribution and Average Order Value (AOV) across time, product categories, and geographic markets.
+
+**Customer & Retention Analysis**
+- Applied RFM segmentation to examine customer purchasing behavior and value contribution.
+- Used cohort analysis to evaluate customer retention, identifying near-zero repeat purchasing after the first order.
+- Compared geographic customer order distributions between 2017 and 2018 using interactive maps.
+
+**Product & Seller Analysis**
+- Evaluated category-level revenue contribution, growth, and AOV patterns.
+- Segmented product categories by seller competition and revenue performance.
+- Compared seller pricing and category strategies to identify differences between one-order and multi-order sellers.
+
+**Forecasting & Geospatial Analysis**
+- Developed seasonal SARIMAX models to forecast monthly sales, order volume, and Average Order Value for September–December 2018.
+- Used GeoPandas to create and analyze geographic datasets by combining Brazilian state boundaries with order, sales, and delivery metrics.
+- Built interactive Folium maps, including clustered customer-location markers and state-level order choropleths, to explore geographic patterns.
+
+**Python Techniques:** Data quality assessment · Missing-value treatment and imputation · Datetime feature engineering · Exploratory data analysis · RFM segmentation · Cohort analysis · Seller and product segmentation · Seasonal time-series forecasting · Geospatial data processing and visualization
+
+**Libraries:** Pandas · NumPy · Matplotlib · Seaborn · Plotly · Statsmodels · GeoPandas · Folium
 
 *GitHub project repository to be linked.*
 
