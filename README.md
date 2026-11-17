@@ -85,14 +85,32 @@ An end-to-end analytics project using the Brazilian Olist e-commerce dataset to 
 
 *GitHub project repository to be linked.*
 
-### 3. Healthcare Readmission & Mortality Analysis
-A statistical analysis project investigating differences in healthcare outcome measures across clinical categories.
+### 3. US Healthcare Readmission & Mortality Analysis
 
-- Applied confidence intervals and effect-size analysis
-- Used hypothesis testing to evaluate group differences
-- Applied Kruskal–Wallis testing and Dunn's post-hoc comparisons where appropriate
+A healthcare data analysis project using Python to explore hospital-level readmission and mortality measures across the United States, compare performance across clinical measure categories, and investigate differences between Cardiac and Respiratory hospital outcomes.
 
-**Tools:** Python · Pandas · SciPy · Statistics
+**Data Preparation & Exploratory Analysis**
+- Cleaned and prepared 64,764 hospital-level records, handling unavailable report values and standardizing numerical and date fields.
+- Extracted geographic coordinates from hospital location data and engineered reporting-period features.
+- Examined distributions and descriptive statistics across readmission and mortality measures, including skewness and kurtosis.
+
+**Geographic & Comparative Analysis**
+- Developed state-level readmission and mortality rankings using average hospital scores.
+- Incorporated national averages into comparative tables to provide a benchmark for state-level performance.
+- Visualized state-level differences and explored the relationship between readmission and mortality scores.
+
+**Statistical Analysis**
+- Used Levene’s test to assess variance equality before selecting the appropriate independent-samples t-test for Cardiac and Respiratory comparisons.
+- Applied Welch’s t-test for readmission scores and the standard independent-samples t-test for mortality scores.
+- Calculated Cohen’s d and 95% confidence intervals to evaluate the magnitude and uncertainty of observed differences.
+
+**Key Findings**
+- Cardiac hospitals had a higher average readmission score (20.00%) than Respiratory hospitals (18.39%), with a large standardized difference (Cohen’s d = 0.967).
+- Respiratory hospitals had a higher average mortality score (12.75%) than Cardiac hospitals (11.93%), with a moderate standardized difference (Cohen’s d = −0.434).
+- State-level analysis revealed a moderate positive correlation between average readmission and mortality scores (Pearson’s r = 0.48), indicating that states with higher readmission scores generally also tended to have higher mortality scores.
+
+**Tools:** Python · Pandas · NumPy · SciPy · Matplotlib · Seaborn · Plotly
+
 
 *GitHub project repository to be linked.*
 
