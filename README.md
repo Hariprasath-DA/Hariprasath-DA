@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile-banner.png" width="100%" alt="Hari Prasath - Data Analyst">
+</p>
+
 # Hi there, I'm Hariprasath 👋
 
 <div align="center">
