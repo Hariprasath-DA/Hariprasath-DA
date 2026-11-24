@@ -90,7 +90,7 @@ An end-to-end analytics project using the Brazilian Olist e-commerce dataset to 
 
 **Libraries:** Pandas · NumPy · Matplotlib · Seaborn · Plotly · Statsmodels · GeoPandas · Folium
 
-*GitHub project repository to be linked.*
+- **GitHub Repository:** [View source code](https://github.com/Hariprasath-DA/Olist-Brazilian-E-Commerce-Analytics)
 
 ### 3. US Healthcare Readmission & Mortality Analysis
 
