@@ -118,8 +118,7 @@ A healthcare data analysis project using Python to explore hospital-level readmi
 
 **Tools:** Python · Pandas · NumPy · SciPy · Matplotlib · Seaborn · Plotly
 
-
-*GitHub project repository to be linked.*
+- **GitHub Repository:** [View source code](https://github.com/Hariprasath-DA/US-Hospitals-Readmissions-and-Mortality-Rate-Analysis)
 
 ## 🎯 What I'm Working Toward
 
