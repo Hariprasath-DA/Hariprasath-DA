@@ -124,12 +124,13 @@ A healthcare data analysis project using Python to explore hospital-level readmi
 
 - **GitHub Repository:** [View source code](https://github.com/Hariprasath-DA/US-Hospitals-Readmissions-and-Mortality-Rate-Analysis)
 
-## 🎯 What I'm Working Toward
+## 🎯 Professional Development Focus
 
-- Strengthening my analytical problem-solving and SQL skills
-- Building business-focused dashboards and reporting solutions
-- Developing reliable, transparent, and reproducible analytics workflows
-- Preparing for Data Analyst and BI Analyst opportunities
+- Advancing expertise in data analytics, statistical analysis, and business intelligence to deliver data-driven insights and support informed decision-making.
+- Strengthening proficiency in SQL, data modeling, and enterprise reporting solutions.
+- Expanding capabilities in data engineering, with a focus on data pipelines, ETL processes, data integration, and scalable data architectures.
+- Building end-to-end data solutions that emphasize data quality, reliability, reproducibility, and analytical efficiency.
+- Continuously developing technical and problem-solving skills to contribute to Data Analyst, BI Analyst, and future Data Engineering roles.
 
 ## 🤝 Connect
 
