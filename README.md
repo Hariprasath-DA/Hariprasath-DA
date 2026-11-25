@@ -62,6 +62,10 @@ An end-to-end supply chain analytics project integrating SQL Server, Python, and
 
 - **GitHub Repository:** [View source code](https://github.com/Hariprasath-DA/supply-chain-intelligence-dashboard)
 
+- ## Featured Dashboard
+
+![Supply Chain Intelligence Dashboard](dashboard-preview.png)
+
 
 ### 2. Brazilian E-commerce Analytics
 
